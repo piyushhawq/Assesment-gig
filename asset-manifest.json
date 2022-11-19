@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Assesment-gig/static/css/main.5aa4ba64.css",
+    "main.js": "/Assesment-gig/static/js/main.c6faa6a0.js",
+    "index.html": "/Assesment-gig/index.html",
+    "main.5aa4ba64.css.map": "/Assesment-gig/static/css/main.5aa4ba64.css.map",
+    "main.c6faa6a0.js.map": "/Assesment-gig/static/js/main.c6faa6a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aa4ba64.css",
+    "static/js/main.c6faa6a0.js"
+  ]
+}
